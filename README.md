@@ -3,8 +3,11 @@ MEAN-Vagrant
 
 This repo has mean 32 bit debian stack box.
 You need to have Vagrant and VirtualBox installed in order to run this project.
+
 You can download vagrant from : http://www.vagrantup.com/downloads.html
+
 You can download VirtualBox from : https://www.virtualbox.org/wiki/Downloads
+
 Note: Both these softwares are free to download.
 
 Step 1:
